@@ -1,0 +1,1 @@
+{"name":"fantasy-roster-workbench","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"start":"node apps/web/server.mjs","mcp":"node apps/mcp/server.mjs","test":"node --test"}}

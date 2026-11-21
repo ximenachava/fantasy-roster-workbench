@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Review and approve fantasy football lineup and trade proposals in a fictional league."><title>Fantasy Roster Workbench</title><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script></head>
+<body>
+<header><div class="shell bar"><a class="brand" href="/">Roster Workbench</a><span class="demo">Fictional league</span></div></header>
+<main class="shell">
+<section class="intro"><div><div id="context" class="context"></div><h1>Fantasy roster<br>workbench<span>.</span></h1></div><button id="analyze" class="primary" disabled>Run analysis</button></section>
+<section class="metrics" id="metrics" aria-label="League overview"></section>
+<nav aria-label="Dashboard sections"><button data-view="lineup" class="selected">Lineup</button><button data-view="trades">Trades</button><button data-view="queue">Review queue <span id="count">0</span></button><button data-view="activity">Activity</button></nav>
+<div id="notice" role="status"></div><section id="view" aria-live="polite"></section>
+<footer><span>Local demo · All players and results are fictional.</span><button class="link" id="reset" disabled>Reset demo</button></footer>
+</main>
+</body></html>

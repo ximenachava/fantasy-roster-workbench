@@ -1,0 +1,176 @@
+{
+  "name": "Sunday League",
+  "week": 11,
+  "revision": 1,
+  "record": "7–3",
+  "slots": [
+    "QB",
+    "RB",
+    "RB",
+    "WR",
+    "WR",
+    "TE",
+    "FLEX",
+    "D/ST",
+    "K"
+  ],
+  "players": [
+    {
+      "id": "p1",
+      "name": "Miles Hale",
+      "position": "QB",
+      "team": "Comets",
+      "projected": 21.8,
+      "average": 19.7,
+      "last": 35.42,
+      "kickoff": 1
+    },
+    {
+      "id": "p2",
+      "name": "Jordan Reed",
+      "position": "RB",
+      "team": "Bolts",
+      "projected": 12,
+      "average": 8.4,
+      "last": 8.1,
+      "kickoff": 1
+    },
+    {
+      "id": "p3",
+      "name": "Cameron Banks",
+      "position": "RB",
+      "team": "Raiders",
+      "projected": 13.8,
+      "average": 15,
+      "last": 10.4,
+      "kickoff": 1
+    },
+    {
+      "id": "p4",
+      "name": "Devin Cross",
+      "position": "WR",
+      "team": "Tigers",
+      "projected": 25.4,
+      "average": 21.5,
+      "last": 34.1,
+      "kickoff": 3
+    },
+    {
+      "id": "p5",
+      "name": "Caleb Pierce",
+      "position": "WR",
+      "team": "Cougars",
+      "projected": 13.9,
+      "average": 14.6,
+      "last": 6.5,
+      "kickoff": 1
+    },
+    {
+      "id": "p6",
+      "name": "Cole Mercer",
+      "position": "TE",
+      "team": "Cardinals",
+      "projected": 13.1,
+      "average": 17.2,
+      "last": 8.7,
+      "kickoff": 1
+    },
+    {
+      "id": "p7",
+      "name": "Darius Nash",
+      "position": "WR",
+      "team": "Steel",
+      "projected": 11.1,
+      "average": 10.4,
+      "last": 15.4,
+      "kickoff": 1
+    },
+    {
+      "id": "p8",
+      "name": "Comets Defense",
+      "position": "D/ST",
+      "team": "Comets",
+      "projected": 7,
+      "average": 6.6,
+      "last": 9,
+      "kickoff": 1
+    },
+    {
+      "id": "p9",
+      "name": "Luke Bennett",
+      "position": "K",
+      "team": "Steel",
+      "projected": 10.2,
+      "average": 9.1,
+      "last": 5,
+      "kickoff": 1
+    },
+    {
+      "id": "p10",
+      "name": "Micah Grant",
+      "position": "WR",
+      "team": "Hawks",
+      "projected": 12.5,
+      "average": 11.8,
+      "last": 14.2,
+      "kickoff": 2
+    },
+    {
+      "id": "p11",
+      "name": "Eli Porter",
+      "position": "RB",
+      "team": "Steel",
+      "projected": 9.1,
+      "average": 8.3,
+      "last": 5.4,
+      "kickoff": 1
+    },
+    {
+      "id": "p12",
+      "name": "Jaguars Defense",
+      "position": "D/ST",
+      "team": "Jaguars",
+      "projected": 7,
+      "average": 7.8,
+      "last": 3,
+      "kickoff": 1
+    },
+    {
+      "id": "p13",
+      "name": "Noah Brooks",
+      "position": "RB",
+      "team": "Jets",
+      "projected": 13.1,
+      "average": 13.8,
+      "last": 14.8,
+      "kickoff": 1
+    }
+  ],
+  "lineup": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9"
+  ],
+  "bench": [
+    "p10",
+    "p11",
+    "p12"
+  ],
+  "opponents": [
+    {
+      "id": "north",
+      "name": "North End",
+      "players": [
+        "p13"
+      ]
+    }
+  ],
+  "proposals": [],
+  "activity": []
+}
